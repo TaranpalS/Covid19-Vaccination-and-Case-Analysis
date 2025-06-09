@@ -84,7 +84,7 @@ This Power BI report includes five pages:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/TaranpalS/Covid19-Vaccination-and-Case-Analysis/main/dashboard_overview.png)
+![Dashboard Overview](https://raw.githubusercontent.com/TaranpalS/Covid19-Vaccination-and-Case-Analysis/main/dashboard_overview.png)
 
 ---
 
