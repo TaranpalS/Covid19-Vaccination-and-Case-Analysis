@@ -84,7 +84,7 @@ This Power BI report includes five pages:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Preview](dashboard_overview.png)
 
 ---
 
