@@ -74,11 +74,11 @@ plt.show()
 
 This Power BI report includes five pages:
 
-1. **Dashboard Overview** – All visuals in one summary page  
-2. **Total Cases by Vaccination Status** – Bar chart comparing cases vs vaccination  
-3. **Vaccination Totals by Country** – Country-wise vaccination totals  
-4. **Global Vaccination Map** – Filled map with vaccination per 100  
-5. **Interactive Filters Panel** – Slicers for filtering by country/date
+1. Dashboard Overview – All visuals in one summary page  
+2. Total Cases by Vaccination Status – Bar chart comparing cases vs vaccination  
+3. Vaccination Totals by Country – Country-wise vaccination totals  
+4. Global Vaccination Map – Filled map with vaccination per 100  
+5. Interactive Filters Panel – Slicers for filtering by country/date
 
 ---
 
