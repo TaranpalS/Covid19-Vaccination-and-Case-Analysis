@@ -82,12 +82,6 @@ This Power BI report includes five pages:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard Overview](dashboard_overview.png)
-
----
-
 🧑‍💻 Author
 Taranpal Singh
 Data Analyst | Power BI & Python Enthusiast
